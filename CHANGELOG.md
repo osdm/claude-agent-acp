@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.113.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.112.0...v0.113.0) (2026-11-25)
+
+
+### Features
+
+* start Remote Control with the session when Claude Code asks for it ([#1523](https://github.com/agentclientprotocol/claude-agent-acp/issues/1523)) ([893f768](https://github.com/agentclientprotocol/claude-agent-acp/commit/893f7680c7ed57be7fc7be7f4e9abac268884ff2))
+
+
+### Bug Fixes
+
+* **background:** keep a tool call whose task joins the live set after its result ([#1639](https://github.com/agentclientprotocol/claude-agent-acp/issues/1639)) ([677a6d9](https://github.com/agentclientprotocol/claude-agent-acp/commit/677a6d9afab3c7bad41fdf2587a24b2414236b29))
+
 ## [0.112.0](https://github.com/agentclientprotocol/claude-agent-acp/compare/v0.111.0...v0.112.0) (2026-11-24)
 
 
